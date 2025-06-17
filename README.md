@@ -15,6 +15,8 @@ The Vrinda Store Want to create an annual sale for 2022. so that, the owener of 
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 
+- Dashboard Interaction <a href="https://github.com/patilgirish98/Data-Analysis-Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
+
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
